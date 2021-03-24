@@ -161,11 +161,5 @@ SS Rule Snippet
 
 大家的支持是我的动力～我还会用捐助的钱给我家的两只 🐱 丑橘 🍊 和 ⚡️ 伏特 🐈‍⬛ 买鱼罐头
 
-<img  src="https://i.loli.net/2020/11/26/7MgDErcJWIsiq34.png"
-      height=80%
-      width=80%>
 
-<img  src="https://i.loli.net/2020/11/27/hSojTe1NcgJQlt9.png"
-      height=80%
-      width=80%>
 
